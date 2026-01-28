@@ -1,0 +1,7 @@
+{
+  "name": "LingoScan AI - Vocabulary Bot",
+  "description": "A smart vocabulary assistant that extracts words from images and creates interactive flashcards and quizzes for language learners.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
